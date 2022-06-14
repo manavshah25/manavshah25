@@ -1,6 +1,6 @@
 <h1 align="center">
     Hello! Folks👋 I'm Manav Shah</h1>
-<h3 align="center">involved in learning new technology</h3>
+<h3 align="center">Involved in learning new technology</h3>
 
 ![Github Banner](image.jpg)
 
