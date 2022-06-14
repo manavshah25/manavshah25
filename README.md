@@ -2,7 +2,7 @@
     Hello! Folks👋 I'm Manav Shah</h1>
 <h3 align="center">passionate About Learning Various Technology</h3>
 
-<h1 align="center">![Github Banner](image.jpg)</h1>
+![Github Banner](image.jpg)
 
 ## ^_^ Programming Languages
 
