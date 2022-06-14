@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hello! Folks👋 I'm Aneri Sonani</h1>
 <h3 align="center">passionate About Learning Various Technology</h3>
