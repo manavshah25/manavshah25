@@ -67,4 +67,5 @@
     <a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anerisonani09" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/manavshah9890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manavshah" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/manavshah25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manavshah" height="30" width="40" /></a>
-</p>![image](https://user-images.githubusercontent.com/87116535/173766595-8e89b73c-f348-4f83-bf39-ede036e8cf2a.png)
+</p>
+
