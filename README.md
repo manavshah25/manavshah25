@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram-demo**
+- 🔭 I’m currently working on **online selling art worker** and **chat application with websocket**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **microservice** 
+
+- Improving my cp skills 
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavshah25](https://github.com/manavshah25)
 
